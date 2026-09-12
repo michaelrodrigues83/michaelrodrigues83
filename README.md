@@ -26,5 +26,5 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 ---
 
 ## 📬 Contato
-*   **LinkedIn:** ://linkedin.com
+*   **LinkedIn:** www.linkedin.com/in/michael-hernandes-rodrigues-4b092b283
 *   **E-mail:** michael.rodrigues2312@gmail.com
