@@ -17,12 +17,11 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 *   **Fundamentos da Lei Geral de Proteção de Dados (LGPD)** (Estudo Autodidata)
 *   **Gestão de Segurança da Informação baseada na ISO 27001** (Curso via Udemy)
 
-## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas)
-*   Estágio em Desenvolvimento de Software / Programação (Foco em Python)
-*   Estágio em Segurança da Informação / Analista de SOC N1 (Blue Team)
+## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas PcD ♿)
 *   Estágio em Governança, Riscos e Conformidade (GRC)
-*   Suporte Técnico N1 / Infraestrutura de TI
-
+*   Estágio em Segurança da Informação / Analista de SOC N1 (Blue Team)
+*   Suporte Técnico N1 / Infraestrutura de TI  
+*   Estágio em Desenvolvimento de Software / Programação (Foco em Python)
 ---
 
 ## 📬 Contato
