@@ -11,12 +11,13 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 ## 📚 Formação Acadêmica
 *   **Tecnólogo em Segurança da Informação** – FATEC Prof. José Arana Varela em Araraquara (1º Semestre / Noturno)
 
-## 🏆 Certificações & Trilhas de Estudo (Todas em Andamento)
-*   **Google Cybersecurity Professional Certificate** (Foco em Python, Linux, Redes e Análise de Logs/SIEM)
-*   **Cisco Junior Cybersecurity Analyst Track** (Foco em Infraestrutura de Redes e Packet Tracer)
-*   **Fundamentos da Lei Geral de Proteção de Dados (LGPD)** (Estudo Autodidata)
-*   **Gestão de Segurança da Informação baseada na ISO 27001** (Curso via Udemy)
-
+## 🏆 Certificações & Trilhas de Estudo 
+*   **Google Cybersecurity Professional Certificate** (Foco em Python, Linux, Redes e Análise de Logs/SIEM) (Em Andamento)
+*   **Cisco Junior Cybersecurity Analyst Track** (Foco em Infraestrutura de Redes e Packet Tracer) (Em Andamento)
+*   **Fundamentos da Lei Geral de Proteção de Dados (LGPD)** (Estudo Autodidata) (Em Andamento)
+*   **Gestão de Segurança da Informação baseada na ISO 27001** (Curso via Udemy) (Em Andamento)
+*   **Sensibilização da Segurança Digital** (CISCO NetAcedemy) (Concluido)
+  
 ## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas PcD ♿)
 *   Estágio em Governança, Riscos e Conformidade (GRC)
 *   Estágio em Segurança da Informação / Analista de SOC N1 (Blue Team)
