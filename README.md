@@ -11,18 +11,27 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 ## 📚 Formação Acadêmica
 *   **Tecnólogo em Segurança da Informação** – FATEC Prof. José Arana Varela em Araraquara (1º Semestre / Noturno)
 
-## 🏆 Certificações & Trilhas de Estudo 
-*   **Google Cybersecurity Professional Certificate** (Foco em Python, Linux, Redes e Análise de Logs/SIEM) (Em Andamento)
-*   **Cisco Junior Cybersecurity Analyst Track** (Foco em Infraestrutura de Redes e Packet Tracer) (Em Andamento)
-*   **Fundamentos da Lei Geral de Proteção de Dados (LGPD)** (Estudo Autodidata) (Em Andamento)
-*   **Gestão de Segurança da Informação baseada na ISO 27001** (Curso via Udemy) (Em Andamento)
-*   **Sensibilização da Segurança Digital** (CISCO NetAcedemy) (Concluido)
-  
-## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas PcD ♿)
+## 🏆 Certificações Concluídas
+*   **Sensibilização para a Segurança Digital** – Cisco Networking Academy / FATEC Araraquara
+    *   *ID do Certificado:* 9bf3c422-3d28-4783-9d43-15b304f4e011
+    *   *Escopo:* Fundamentos de segurança da informação, engenharia social, proteção de dados e conscientização cibernética institucional.
+
+## ⏳ Trilhas de Estudo e Certificações (Em Andamento)
+*   **LGPD Essencial** – Data Privacy Brasil
+    *   *Foco:* Frameworks de privacidade, conformidade regulatória, direitos dos titulares e proteção de dados corporativos.
+*   **Google Cybersecurity Professional Certificate** – Coursera
+    *   *Foco:* Automação com Python, segurança de redes, Linux básico, comandos SQL e análise de logs com ferramentas SIEM (Splunk e Chronicle).
+*   **Junior Cybersecurity Analyst Track** – Cisco Networking Academy
+    *   *Foco:* Arquitetura e protocolos de redes (TCP/IP), defesa cibernética operacional, ameaças digitais e laboratórios práticos com Packet Tracer.
+*   **Gestão de Segurança da Informação baseada na ISO 27001** – Udemy
+    *   *Foco:* Sistemas de Gestão de Segurança da Informação (SGSI), políticas de governança e mapeamento de riscos de TI.
+
+## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas)
 *   Estágio em Governança, Riscos e Conformidade (GRC)
-*   Estágio em Segurança da Informação / Analista de SOC N1 (Blue Team)
-*   Suporte Técnico N1 / Infraestrutura de TI  
 *   Estágio em Desenvolvimento de Software / Programação (Foco em Python)
+*   Estágio em Segurança da Informação / Analista de SOC N1 (Blue Team)
+*   Suporte Técnico N1 / Infraestrutura de TI
+
 ---
 
 ## 📬 Contato
