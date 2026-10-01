@@ -17,13 +17,13 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
     *   *Escopo:* Fundamentos de segurança da informação, engenharia social, proteção de dados e conscientização cibernética institucional.
 
 ## ⏳ Trilhas de Estudo e Certificações (Em Andamento)
-*   **LGPD Essencial** – Data Privacy Brasil
+*   **LGPD Essencial** – Data Privacy Br
     *   *Foco:* Frameworks de privacidade, conformidade regulatória, direitos dos titulares e proteção de dados corporativos.
 *   **Google Cybersecurity Professional Certificate** – Coursera
     *   *Foco:* Automação com Python, segurança de redes, Linux básico, comandos SQL e análise de logs com ferramentas SIEM (Splunk e Chronicle).
 *   **Junior Cybersecurity Analyst Track** – Cisco Networking Academy
     *   *Foco:* Arquitetura e protocolos de redes (TCP/IP), defesa cibernética operacional, ameaças digitais e laboratórios práticos com Packet Tracer.
-*   **Gestão de Segurança da Informação baseada na ISO 27001** – Udemy
+*   **ISO 27001: Curso completo para certificação EXIN ISFS!** – Udemy
     *   *Foco:* Sistemas de Gestão de Segurança da Informação (SGSI), políticas de governança e mapeamento de riscos de TI.
 
 ## 🎯 Objetivos de Carreira (Foco em Estágio / Vagas Afirmativas)
