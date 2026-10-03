@@ -20,19 +20,15 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
     *   *Escopo:* Fundamentos de segurança da informação, engenharia social, proteção de ativos e conscientização cibernética institucional.
 
 ---
-## 🗂️ Trilhas de Especialização e Formações Ativas (Em Andamento)
-
-O meu ecossistema de aprendizado é alimentado modularmente por pilares de capacitação contínua, conectando frameworks internacionais, automações e legislações à prática real de mercado:
-
 1. **Segurança da Informação & Governança (ISO/IEC 27001):**
    * **Curso Oficial:** *ISO 27001: Curso completo para certificação EXIN ISFS!* via Udemy.
    * **Foco Prático:** Estruturação de Políticas de Segurança da Informação, análise de lacunas (Gap Analysis), gerenciamento de ativos e matrizes de riscos organizacionais.
-   * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](https://github.com)
+   * **Acesse a Trilha:** [📂 Deixar Pasta ISO 27001](https://github.com)
 
 2. **Privacidade e Proteção de Dados (LGPD):**
    * **Curso Oficial:** *LGPD: O Essencial* via Data Privacy Brasil.
    * **Foco Prático:** Critérios de incidência e escopo (Art. 3º e 4º), proteção de dados pessoais sensíveis de saúde, impactos do Efeito Mosaico na anonimização (Art. 12) e abordagem consequencialista.
-   * **Acesse a Trilha:** [📂 Explorar Pasta LGPD](https://github.com)
+   * **Acesse a Trilha:** [📂 Deixar Pasta LGPD](https://github.com)
 
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
