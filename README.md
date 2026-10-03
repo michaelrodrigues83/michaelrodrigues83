@@ -27,23 +27,23 @@ O repositório está estruturado em duas grandes frentes estratégicas. Clique n
 1. **Lei Geral de Proteção de Dados (LGPD) (Data Privacy Brasil):**
    * Estudos aprofundados sobre legislação de proteção de dados, mapeamento de fluxos e relatórios de impactos.
    * **Foco Atual:** Aspectos regulatórios e mitigação de riscos de privacidade com base no curso da Data Privacy Brasil.
-   * **Acesse a Trilha:** [📂 Explorar Pasta LGPD](./LGPD-/)
+  
 
 2. **Segurança da Informação (ISO/IEC 27001) (Udemy):**
    * Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
    * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de riscos com base nos módulos da Udemy.
-   * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](./ISO-27001-Udemy/)
+
 
 
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
    * **Foco Prático:** Engenharia de redes seguras, cálculo de sub-redes corporativas, topologias em cascata no Cisco Packet Tracer e relatórios de inteligência de ameaças com análise forense de incidentes de Phishing.
-   * **Acesse a Trilha:** [📂 Explorar Repositório Cisco](https://github.com)
+     
 
 4. **Operações e Automação de Segurança com Google Cloud:**
    * **Certificação Profificonal:** *Google Cybersecurity Professional Certificate* via Coursera.
    * **Foco Prático:** Desenvolvimento de scripts de automação defensiva com Python 3, manipulação de arquivos lógicos em ambiente Linux, consultas estruturadas de dados com SQL e análise/triagem de logs através de ferramentas SIEM (Splunk e Chronicle).
-   * **Acesse a Trilha:** [📂 Explorar Repositório Google](https://github.com)
+
 
 ---
 
