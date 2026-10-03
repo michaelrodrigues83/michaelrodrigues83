@@ -20,29 +20,30 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
     *   *Escopo:* Fundamentos de segurança da informação, engenharia social, proteção de ativos e conscientização cibernética institucional.
 
 ---
-## 🗺️ Trilhas de Especialização
+## 🗂️ Trilhas de Especialização e Formações Ativas (Em Andamento)
 
-O repositório está estruturado em duas grandes frentes estratégicas. Clique nos links para acessar o painel de abertura de cada uma delas:
+O meu ecossistema de aprendizado é alimentado modularmente por pilares de capacitação contínua, conectando frameworks internacionais, automações e legislações à prática real de mercado:
 
-1. **Lei Geral de Proteção de Dados (LGPD) (Data Privacy Brasil):**
-   * Estudos aprofundados sobre legislação de proteção de dados, mapeamento de fluxos e relatórios de impactos.
-   * **Foco Atual:** Aspectos regulatórios e mitigação de riscos de privacidade com base no curso da Data Privacy Brasil.
-  
+1. **Segurança da Informação & Governança (ISO/IEC 27001):**
+   * **Curso Oficial:** *ISO 27001: Curso completo para certificação EXIN ISFS!* via Udemy.
+   * **Foco Prático:** Estruturação de Políticas de Segurança da Informação, análise de lacunas (Gap Analysis), gerenciamento de ativos e matrizes de riscos organizacionais.
+   * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](https://github.com)
 
-2. **Segurança da Informação (ISO/IEC 27001) (Udemy):**
-   * Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
-   * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de riscos com base nos módulos da Udemy.
-
-
+2. **Privacidade e Proteção de Dados (LGPD):**
+   * **Curso Oficial:** *LGPD: O Essencial* via Data Privacy Brasil.
+   * **Foco Prático:** Critérios de incidência e escopo (Art. 3º e 4º), proteção de dados pessoais sensíveis de saúde, impactos do Efeito Mosaico na anonimização (Art. 12) e abordagem consequencialista.
+   * **Acesse a Trilha:** [📂 Explorar Pasta LGPD](https://github.com)
 
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
    * **Foco Prático:** Engenharia de redes seguras, cálculo de sub-redes corporativas, topologias em cascata no Cisco Packet Tracer e relatórios de inteligência de ameaças com análise forense de incidentes de Phishing.
-     
+   * **Acesse a Trilha:** [📂 Explorar Repositório Cisco](https://github.com)
 
 4. **Operações e Automação de Segurança com Google Cloud:**
-   * **Certificação Profificonal:** *Google Cybersecurity Professional Certificate* via Coursera.
+   * **Certificação Profissional:** *Google Cybersecurity Professional Certificate* via Coursera.
    * **Foco Prático:** Desenvolvimento de scripts de automação defensiva com Python 3, manipulação de arquivos lógicos em ambiente Linux, consultas estruturadas de dados com SQL e análise/triagem de logs através de ferramentas SIEM (Splunk e Chronicle).
+   * **Acesse a Trilha:** [📂 Explorar Repositório Google](https://github.com/michaelrodrigues83/Projeto-Jornada-de-Ciberseguranca-Google)
+
 
 
 ---
