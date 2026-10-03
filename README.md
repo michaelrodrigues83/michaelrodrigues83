@@ -15,7 +15,7 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 ## 🏆 Certificações Concluídas
 *   **Analista de Suporte N1: Do Zero ao Primeiro Emprego (Prático)** – Udemy
     *   *Escopo:* Gerenciamento prático de incidentes e requisições, arquitetura de sistemas operacionais, troubleshooting de hardware, atendimento ao usuário final e fluxos operacionais de Service Desk.
-    * **Acesse a Trilha:** [📂 Explorar Pasta Analista de Suporte N1](https://github.com/michaelrodrigues83/portifolio-de-estudos-grc/tree/main/LGPD-Data-Privacy/Data-Privacy-Brasil)
+    * **Acesse a Trilha:** [📂 Explorar Pasta Analista de Suporte N1](https://github.com/michaelrodrigues83/suporte-tecnico-n1-practices)
       
 *   **Sensibilização para a Segurança Digital** – Cisco Networking Academy / FATEC Araraquara
     *   *ID do Certificado:* 9bf3c422-3d28-4783-9d43-15b304f4e011
