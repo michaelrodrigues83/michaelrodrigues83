@@ -28,7 +28,7 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 2. **Privacidade e Proteção de Dados (LGPD):**
    * **Curso Oficial:** *LGPD: O Essencial* via Data Privacy Brasil.
    * **Foco Prático:** Critérios de incidência e escopo (Art. 3º e 4º), proteção de dados pessoais sensíveis de saúde, impactos do Efeito Mosaico na anonimização (Art. 12) e abordagem consequencialista.
-   * **Acesse a Trilha:** [📂 Deixar Pasta LGPD](https://github.com)
+   * **Acesse a Trilha:** [📂 Deixar Pasta LGPD](https://github.com/michaelrodrigues83/portifolio-de-estudos-grc/tree/main/LGPD-Data-Privacy/Data-Privacy-Brasil)
 
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
