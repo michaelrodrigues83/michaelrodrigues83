@@ -23,12 +23,12 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 1. **Segurança da Informação & Governança (ISO/IEC 27001):**
    * **Curso Oficial:** *ISO 27001: Curso completo para certificação EXIN ISFS!* via Udemy.
    * **Foco Prático:** Estruturação de Políticas de Segurança da Informação, análise de lacunas (Gap Analysis), gerenciamento de ativos e matrizes de riscos organizacionais.
-   * **Acesse a Trilha:** [📂 Deixar Pasta ISO 27001](https://github.com)
+   * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](https://github.com)
 
 2. **Privacidade e Proteção de Dados (LGPD):**
    * **Curso Oficial:** *LGPD: O Essencial* via Data Privacy Brasil.
    * **Foco Prático:** Critérios de incidência e escopo (Art. 3º e 4º), proteção de dados pessoais sensíveis de saúde, impactos do Efeito Mosaico na anonimização (Art. 12) e abordagem consequencialista.
-   * **Acesse a Trilha:** [📂 Deixar Pasta LGPD](https://github.com/michaelrodrigues83/portifolio-de-estudos-grc/tree/main/LGPD-Data-Privacy/Data-Privacy-Brasil)
+   * **Acesse a Trilha:** [📂 Explorar Pasta LGPD](https://github.com/michaelrodrigues83/portifolio-de-estudos-grc/tree/main/LGPD-Data-Privacy/Data-Privacy-Brasil)
 
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
