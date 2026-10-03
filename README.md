@@ -33,7 +33,7 @@ Meus valores fundamentais estão pautados na **proteção de ativos, integridade
 3. **Defesa Cibernética & Operações de Segurança (SOC):**
    * **Trilha Oficial:** *Junior Cybersecurity Analyst* via Cisco Networking Academy.
    * **Foco Prático:** Engenharia de redes seguras, cálculo de sub-redes corporativas, topologias em cascata no Cisco Packet Tracer e relatórios de inteligência de ameaças com análise forense de incidentes de Phishing.
-   * **Acesse a Trilha:** [📂 Explorar Repositório Cisco](https://github.com)
+   * **Acesse a Trilha:** [📂 Explorar Repositório Cisco](https://github.com/michaelrodrigues83/cisco-cybersecurity-junior-analyst)
 
 4. **Operações e Automação de Segurança com Google Cloud:**
    * **Certificação Profissional:** *Google Cybersecurity Professional Certificate* via Coursera.
